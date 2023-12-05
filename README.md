@@ -1,4 +1,7 @@
 # strfry-evsifter
+## DEPRECATED
+**This project was moved to [strfrui](https://github.com/jiftechnify/strfrui). Don't use this anymore!**
+
 [![GoDoc](https://pkg.go.dev/badge/github.com/jiftechnify/strfry-evsifter.svg)](https://pkg.go.dev/github.com/jiftechnify/strfry-evsifter)
 
 A tiny framework for writing [strfry](https://github.com/hoytech/strfry)'s [event sifter](https://github.com/hoytech/strfry/blob/master/docs/plugins.md) (write policy) plugin in Go.
