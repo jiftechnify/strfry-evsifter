@@ -1,3 +1,4 @@
+// Deprecated: Use github.com/jiftechnify/strfrui instead.
 module github.com/jiftechnify/strfry-evsifter
 
 go 1.21
